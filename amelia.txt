@@ -22,4 +22,27 @@
 (22) lactic 50:- 281854098692,done
 (23)Glycolic50%:-272362104255,done 
 
+(1) Listings:- TCA 282544666107,done
+(2) salicylic 15 kit 272728204216,done
+(3) microdermabrasion 282331837286,done
+(4) fib 282421848000, done
+(5) gly 30/ hya 282166119198,done
+(6) fib 272621532459, done
+(7) gly 30:- 282465111364, done
+(8) gly 50 kit:- 272662024843,done
+(9) eye Define 272624511627,done
+(10)fib 272489623551,done
+(11)lactic 10:- 272720316857, done
+(12) sal 30 Kit:- 272589227142,done
+(13) sal 30:- 272662678974, done
+(14) pre primer:- 281486015250,done
+(15)  post Peel:- 282466332660,done
+(16) machine:- 282546828693,done
+(17) hyaluronic serum:- 272613804812,done
+(18) Glycolic 30 kit:- 272574643220,done
+(19) tca kit 272694974600, done
+(20) Glycolic 50:- 282508863829, done
+(21) salicylic 15:- 272656776270,done
+(22) lactic 50:- 281854098692,done
+(23)Glycolic50%:-272362104255,done 
 
